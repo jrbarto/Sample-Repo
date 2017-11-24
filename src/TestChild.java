@@ -9,4 +9,8 @@ public class TestChild extends TestParent {
         System.out.println("Arg sum: " + (arg1+arg2+arg3+arg4+arg5));:
     }
 
+    public newMethod() {
+        System.out.println("A new method.");
+    }
+
 }
